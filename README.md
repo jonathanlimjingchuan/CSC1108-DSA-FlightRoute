@@ -61,22 +61,15 @@ This project leverages advanced data structures (e.g., graphs, KD-Trees) and alg
 
 2. **🗂 Requirements to run**:
 ```bash
-- CustomTkinter library (for our GUI)
 pip install customtkinter
-
-- tkintermapview library for (our map GUI)
-pip install tkintermapview"
-
-- GeoPy library (for getting extra geological information on Airports)
+pip install tkintermapview
 pip install geopy
-
-- scipy library (for the KD-Tree Graph)
-"pip install scipy"
-  
+pip install scipy
+```
 3. **▶️ Run the Application**:
 ```bash
    python main.py
-
+```
 
 ## 💡 How to Use the App
 
