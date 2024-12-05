@@ -31,18 +31,18 @@ This project leverages advanced data structures (e.g., graphs, KD-Trees) and alg
    - **DFS Algorithm**: Systematically explores all possible paths.
 
 4. **🎨 Graphical User Interface (GUI)**:
+   <img src="https://github.com/jonathanlimjingchuan/CSC1108-DSA-FlightRoute/raw/main/GUI.png" alt="GUI Example" width="500"/>
    - Built with **CustomTkinter** and **TkinterMapView**.
    - Interactive map displays flight routes, airports, and search results.
    - Users input source and destination airport codes to view results instantly.
 
-   ![GUI Example](https://github.com/jonathanlimjingchuan/CSC1108-DSA-FlightRoute/raw/main/GUI.png)
 
 
-5. **📊 Data Visualization**:
+6. **📊 Data Visualization**:
    - Displays flight paths based on various algorithms.
    - Highlights the cheapest/fastest routes and allows switching between direct and connecting flights.
 
-6. **🛠️ Backend Integration**:
+7. **🛠️ Backend Integration**:
    - Frontend communicates with the backend for real-time algorithm execution.
 
 ## 💻 Technologies Used
