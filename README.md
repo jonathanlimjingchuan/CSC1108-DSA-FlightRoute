@@ -35,6 +35,9 @@ This project leverages advanced data structures (e.g., graphs, KD-Trees) and alg
    - Interactive map displays flight routes, airports, and search results.
    - Users input source and destination airport codes to view results instantly.
 
+   ![GUI Example](https://github.com/jonathanlimjingchuan/CSC1108-DSA-FlightRoute/raw/main/GUI.png)
+
+
 5. **📊 Data Visualization**:
    - Displays flight paths based on various algorithms.
    - Highlights the cheapest/fastest routes and allows switching between direct and connecting flights.
