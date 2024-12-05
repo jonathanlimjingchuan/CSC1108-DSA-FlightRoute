@@ -58,14 +58,17 @@ This project leverages advanced data structures (e.g., graphs, KD-Trees) and alg
    
 ```bash
    git clone https://github.com/your-username/flight-map-routing.git
+```
 
 2. **🗂 Requirements to run**:
+
 ```bash
 pip install customtkinter
 pip install tkintermapview
 pip install geopy
 pip install scipy
 ```
+
 3. **▶️ Run the Application**:
 ```bash
    python main.py
