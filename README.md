@@ -76,11 +76,11 @@ pip install scipy
 
 ## 💡 How to Use the App
 
--Run the app and enter the IATA code for your source and destination.
--Press "Search" (it may take awhile to search, depending on your system)
--After Searching, it will display the route on the map.
--Click on "Search Results" to view the results of the Algorithms
--This will also show the Flights (Direct and Connecting) for the chosen source and destionation.
+- Run the app and enter the IATA code for your source and destination.
+- Press "Search" (it may take awhile to search, depending on your system)
+- After Searching, it will display the route on the map.
+- Click on "Search Results" to view the results of the Algorithms
+- This will also show the Flights (Direct and Connecting) for the chosen source and destionation.
 
 ## 👥 Contributors
 
